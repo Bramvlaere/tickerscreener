@@ -1,0 +1,9 @@
+setup.py
+FinScraper/__init__.py
+FinScraper/__main__.py
+FinScraper/classmodule.py
+FinScraper.egg-info/PKG-INFO
+FinScraper.egg-info/SOURCES.txt
+FinScraper.egg-info/dependency_links.txt
+FinScraper.egg-info/entry_points.txt
+FinScraper.egg-info/top_level.txt
