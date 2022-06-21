@@ -18,6 +18,6 @@ import argparse
  #   classmodule.Menu().run()
 
 
-if __name__ == '__main__':
+if __name__ == 'main':
     #classmodule.Menu().run()
-    app.run(debug=True)
+    app.run()
